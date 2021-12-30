@@ -1,0 +1,133 @@
+body{
+    background-image: url("assets/background.jpeg");
+    
+}
+
+.header{
+    background-color: papayawhip;
+    height: 100px;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.sales{
+    height: 1000px;
+    width: 1800px;
+    margin-left: 30px;
+}
+
+#row1{
+    margin-top: 50px;
+}
+
+#block1{
+    background-color: papayawhip;
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+#block2{
+    background-color: papayawhip;
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+#block3{
+    background-color: papayawhip;
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+#row2{
+    height: 300px;
+    margin-top: 50px;
+}
+
+#block4{
+    background-color: papayawhip;
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+#block5{
+    background-color: papayawhip;
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+#block6{
+    background-color: papayawhip;
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.sidebar{
+    height: 100%; 
+    width: 300px;
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    right: 0;
+    background-color: tan;
+    overflow-x: hidden; 
+    padding-top: 20px;
+  }
+
+.footer{
+    background-color: tan;
+    bottom: 0px;
+    height: auto;
+    position: fixed;
+    height: 50px;
+    width: 100%;
+}
+
+.disclaimer{
+    font-size: 10px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+    text-align: center;
+    color: gainsboro;
+}
+
+.mainside{
+    font-size: 30px;
+    text-align: center;
+}
+
+.button{
+    background-color: sandybrown;
+    border: saddlebrown;
+    color: whitesmoke;
+    padding: 12px 20px;
+}
